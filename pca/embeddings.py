@@ -4,6 +4,7 @@ from keras.models import Sequential
 from keras.layers import Embedding
 import pandas as pd
 
+h = 'hey'
 
 tokenizer = Tokenizer(num_words=10000)
 tokenizer.fit_on_texts(tweets)
