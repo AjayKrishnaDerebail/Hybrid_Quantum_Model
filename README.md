@@ -3,8 +3,8 @@
 <div align="justify">
 # PROPOSED MODEL
 
-In our methodology, we have developed an architecture, as illustrated in the above figure,
-taking into account the limitations identified in the literature survey. Our proposed 
+In our methodology, we have developed an architecture, as illustrated in the above figure.
+Our proposed 
 system consists of six main stages: 1) Data pre-processing, 2) Embedding tweets 
 using BERT, 3) Dimensionality reduction using UMAP, 4) Building Hybrid Quantum 
 Model, 5) Classification layer. 
