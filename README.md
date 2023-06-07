@@ -1,6 +1,6 @@
 # Hybrid_Quantum_Model
 ![Diagram dipicting the hybrid quantum model](https://github.com/AjayKrishnaDerebail/Hybrid_Quantum_Model/assets/85861443/1fafe0cc-8aef-4dd2-8db7-6b322629e2a7)
-
+<div align="justify">
 # PROPOSED MODEL
 
 In our methodology, we have developed an architecture, as illustrated in Figure 1, 
@@ -48,4 +48,4 @@ Output: A parameterized quantum circuit which can classify new input data.
 # 5) Classification layer
 
 When constructing a multilayer perceptron (MLP) model for binary classification, one can use dense layers as the building blocks of the neural network. In contrast to recurrent neural networks (RNNs) like LSTMs, dense layers do not have a temporal component and are instead fully connected. Each neuron in a dense layer receives inputs from all the neurons in the previous layer, computes a weighted sum of those inputs, and passes them through an activation function to produce an output. In the context of binary classification, the last layer of the MLP typically has a single neuron with a sigmoid activation function, which outputs a value between 0 and 1 representing the predicted probability of belonging to the positive class.
-
+</div>
